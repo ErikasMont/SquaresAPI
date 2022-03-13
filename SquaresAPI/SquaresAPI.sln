@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresAPI", "SquaresAPI\SquaresAPI.csproj", "{58F9140E-F01E-4980-BEE3-FAF909A8AFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresAPIUnitTest", "SquaresAPIUnitTest\SquaresAPIUnitTest.csproj", "{D81379E0-3276-4A49-A7CB-B8721242075E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F9140E-F01E-4980-BEE3-FAF909A8AFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F9140E-F01E-4980-BEE3-FAF909A8AFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F9140E-F01E-4980-BEE3-FAF909A8AFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F9140E-F01E-4980-BEE3-FAF909A8AFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81379E0-3276-4A49-A7CB-B8721242075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81379E0-3276-4A49-A7CB-B8721242075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81379E0-3276-4A49-A7CB-B8721242075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81379E0-3276-4A49-A7CB-B8721242075E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97AB6F25-652F-4D27-A53E-84BB2B40E813}
+	EndGlobalSection
+EndGlobal
